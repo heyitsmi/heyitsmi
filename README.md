@@ -8,8 +8,8 @@ I work across the full product lifecycle, from translating business requirements
 
 - SaaS platforms and custom web applications
 - Marketplaces, client portals, and business dashboards
-- Stripe and payment integrations
-- REST APIs and third-party integrations
+- Payment systems and third-party integrations
+- REST APIs and backend services
 - Existing product improvements and production debugging
 
 ## Core Technologies
@@ -18,10 +18,10 @@ Laravel, PHP, React, Next.js, Node.js, TypeScript, MySQL, PostgreSQL, Redis, Doc
 
 ## Areas of Expertise
 
-- SaaS and marketplace development
-- Payment systems and third-party integrations
+- Full-stack product development
 - Product architecture and technical planning
-- Production debugging and performance improvements
+- Payment and API integrations
+- Production debugging and performance optimization
 
 ## Currently
 
