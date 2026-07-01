@@ -17,10 +17,10 @@ I work across the full product lifecycle: turning business requirements into pra
 
 ## Core Technologies
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS
-**Backend:** Laravel, PHP, Node.js
-**Database:** PostgreSQL, MySQL, Supabase, Redis
-**Infrastructure:** Docker, DigitalOcean, Cloudflare
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Laravel, PHP, Node.js
+- **Database:** PostgreSQL, MySQL, Supabase, Redis
+- **Infrastructure:** Docker, DigitalOcean, Cloudflare
 
 ## Areas of Expertise
 
